@@ -1,0 +1,10 @@
+init.ONSWG4TFORZS45DYOQXHI6DUPQZA.base64.igotoschoolbybus.online
+
+BASE32: ONSWG4TFORZS45DYOQXHI6DUPQZA
+Result: secrets.txt.txt|2
+name: secrets.txt.txt
+chunk: 2
+
+0.EO6ylFlsUc_7u_QD8gBDp8L8iFiGZGkhptC_QwnSem_ivrO3zFUgj-nfi9hMhgL.khV2U6tVzJq5EWnz-yXZhBWFmKMaKaM65qclb77kF5MWxV6mdVGDyj9BdDJS6uC.49h41eLONT5V_UHgksMdORol-2cYgWkzWj6H6ae8uRzgRMJjDmYss8XBOekyibe.tQVMNb2669ZzoRFkDZWIylBaJ5C.igotoschoolbybus.online
+
+1.Lp8co2gYHOgdIDqj7CIEWkM.igotoschoolbybus.online

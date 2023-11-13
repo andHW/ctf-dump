@@ -1,0 +1,16 @@
+First 10 gachas has at least 5 UR/SSR.
+('472078b4b2acc15a48aba2a70058b9ea', defaultdict(<class 'int'>, {'UR': 9, 'SSR': 2, 'SR': 0, 'R': 0, 'N': 0}), False, defaultdict(<class 'int'>, {'UR': 1}))
+('472078b4b2acc15a48aba2a70058b9ea', defaultdict(<class 'int'>, {'UR': 9, 'SSR': 2, 'SR': 0, 'R': 0, 'N': 1}), False, defaultdict(<class 'int'>, {'N': 1}))
+('472078b4b2acc15a48aba2a70058b9ea', defaultdict(<class 'int'>, {'UR': 10, 'SSR': 2, 'SR': 0, 'R': 0, 'N': 1}), False, defaultdict(<class 'int'>, {'UR': 1}))
+('472078b4b2acc15a48aba2a70058b9ea', defaultdict(<class 'int'>, {'UR': 10, 'SSR': 2, 'SR': 0, 'R': 0, 'N': 2}), False, defaultdict(<class 'int'>, {'N': 1}))
+('472078b4b2acc15a48aba2a70058b9ea', defaultdict(<class 'int'>, {'UR': 11, 'SSR': 2, 'SR': 0, 'R': 0, 'N': 2}), False, defaultdict(<class 'int'>, {'UR': 1}))
+('472078b4b2acc15a48aba2a70058b9ea', defaultdict(<class 'int'>, {'UR': 11, 'SSR': 2, 'SR': 0, 'R': 0, 'N': 3}), False, defaultdict(<class 'int'>, {'N': 1}))
+('472078b4b2acc15a48aba2a70058b9ea', defaultdict(<class 'int'>, {'UR': 11, 'SSR': 3, 'SR': 0, 'R': 0, 'N': 3}), False, defaultdict(<class 'int'>, {'SSR': 1}))
+('472078b4b2acc15a48aba2a70058b9ea', defaultdict(<class 'int'>, {'UR': 11, 'SSR': 3, 'SR': 0, 'R': 0, 'N': 4}), False, defaultdict(<class 'int'>, {'N': 1}))
+('472078b4b2acc15a48aba2a70058b9ea', defaultdict(<class 'int'>, {'UR': 11, 'SSR': 4, 'SR': 0, 'R': 0, 'N': 4}), False, defaultdict(<class 'int'>, {'SSR': 1}))
+First 19 gachas has at least 10 UR/SSR!
+defaultdict(<class 'int'>, {'UR': 11, 'SSR': 4, 'SR': 0, 'R': 0, 'N': 4})
+('5efa0495566b6295a9bfcc6169ddf759', defaultdict(<class 'int'>, {'UR': 3, 'SSR': 2, 'SR': 0, 'R': 0, 'N': 5}), False, defaultdict(<class 'int'>, {'N': 5, 'UR': 3, 'SSR': 2}))
+
+
+^ printed the wrong inventory, but 472078b4b2acc15a48aba2a70058b9ea worked!!!
